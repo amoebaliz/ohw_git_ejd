@@ -1,2 +1,2 @@
 # ohw_git_ejd
-OceanHackWeek Folder
+OceanHackWeek 2018 repository... practice for now
